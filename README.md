@@ -1,8 +1,7 @@
-# McCordPortfolio2
-Portfolio of Different Coding Projects Done by Mason McCord
+Still Uploading Files!!
 
-My name is Mason McCord, I am a Senior Mechanical Engineering student graduating Dec. 2024 and looking for employment. I'm a life-long hobbyist and tinkerer. The following repository is to show the different small coding projects that I worked on during my time at school and interning with the Boeing company.
+Developed a very basic model of a social media app in highscool with my friend Alan Dang. Got my class to log in and talk to each other. We used free firebase servers for initial testing (Thanks Amazon!)
 
-Despite being early into my professional career I have experience doing structures work for the defense side of GE Aerospace. I performed full-scale product development, GD&T, test plans, and requirements reconciliation for Unison Industries. CAD mapping and Excel Cost Projection tools at Duke Energy.
+If I were to create a social networking app now (which I am thinking of doing) I would work smarter not harder. I've done a little research and Apache tools can help me create the UI without having to start from scratch. Also if I did need to use swift, I would use a virtual environment to circumvent using my underpowered, outdated macbook air and to stay on windows products.
 
-Thank you for taking an interest in my work! If you want to learn more about me my Linkedin is https://www.linkedin.com/in/mason-mccord/
+Very cool experience in highschool which helped me get more interested in coding/engineering.
